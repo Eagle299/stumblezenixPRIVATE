@@ -36,11 +36,11 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
 ┃┃┃┈┈┈┈┈┈┃┃┃
 ╰╯┃┈┈┈┈┈┈┃╰╯
 ┈┈╰┓┏━━┓┏╯
-┈┈┈╰╯┈┈╰╯ Trophy And Crown Hack Safe! [ReEdit]
-By : ${chalk.bold('xDast#8745')} - Credit : @dkmpostor & @Eskey & Zenix
+┈┈┈╰╯┈┈╰╯ SC PRIVATE CUY MODEL RENAME
+
 `);
 
-  const auth = rs.question('Enter Authentication Code! : ');
+  const auth = rs.question('MASUKIN KODE AUTHNYA COY');
   consola.warn('');
 
   while (true) {
