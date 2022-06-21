@@ -2,7 +2,7 @@
 # Jangan Terlalu Brutal
 # Jangan Dijual
 # StaySafe
->> Author : MyZenix77,Dkmpostor,Eskey,Binz,Nugraha,Chacha.
+>> Author : MyZenix77,Dkmpostor,Eskey,Binz,ArnazXyz,Chacha.
 >> Jika Ada Text "Undefined" Jangan Panik/Khawatir Itu Hanya Sebuah Teks Dan Tidak Memengaruhi Apapun Itu Hanya Sebuh Bug Coding
 # Pake Dengan Aman Usahakan Jangan Terlalu Brutal 
 Screenshot 
